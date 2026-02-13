@@ -9,3 +9,5 @@
 
 # MARC binary
 *.mrc	binary -linguist-detectable
+
+.github/workflows/*.lock.yml linguist-generated=true merge=ours
